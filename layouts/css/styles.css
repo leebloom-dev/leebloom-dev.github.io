@@ -1,6 +1,8 @@
-/*
-! tailwindcss v3.0.24 | MIT License | https://tailwindcss.com
-*/
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+/* ! tailwindcss v3.0.24 | MIT License | https://tailwindcss.com */
 
 /*
 1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
@@ -876,18 +878,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-bottom: 0;
 }
 
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
-}
-
-.font-bold {
-  font-weight: 700;
-}
-
-.underline {
-  -webkit-text-decoration-line: underline;
-          text-decoration-line: underline;
+.rounded-full {
+  border-radius: 9999px;
 }
 
 @media (min-width: 1024px) {
