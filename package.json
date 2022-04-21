@@ -18,9 +18,7 @@
   },
   "homepage": "https://github.com/leebloom-dev/leebloom-dev.github.io#readme",
   "devDependencies": {
+    "@tailwindcss/typography": "^0.5.2",
     "tailwindcss": "^3.0.24"
-  },
-  "dependencies": {
-    "@tailwindcss/typography": "^0.5.2"
   }
 }
