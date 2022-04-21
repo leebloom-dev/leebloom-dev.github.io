@@ -1,0 +1,26 @@
+{
+  "name": "leebloom-dev.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leebloom-dev/leebloom-dev.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leebloom-dev/leebloom-dev.github.io/issues"
+  },
+  "homepage": "https://github.com/leebloom-dev/leebloom-dev.github.io#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.5.2"
+  }
+}
